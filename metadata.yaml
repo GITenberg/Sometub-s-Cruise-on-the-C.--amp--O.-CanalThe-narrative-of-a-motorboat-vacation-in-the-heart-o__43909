@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42467'
     url: http://www.gutenberg.org/2009/agents/42467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43909#Sometub-s-Cruise-on-the-C.--amp--O.-CanalThe-narrative-of-a-motorboat-vacation-in-the-heart-o_
 gutenberg_issued: '2013-10-08'
 gutenberg_type: Text
 identifiers:
