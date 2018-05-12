@@ -1,0 +1,29 @@
+_repo: Sometub-s-Cruise-on-the-C.--amp--O.-CanalThe-narrative-of-a-motorboat-vacation-in-the-heart-o__43909
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43909-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cowan, John Pryor
+    birthdate: 1875
+    gutenberg_agent_id: '42467'
+    url: http://www.gutenberg.org/2009/agents/42467
+description: ''
+gutenberg_issued: '2013-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43909'
+  lccn: '17000672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chesapeake and Ohio Canal (Md. and Washington, D.C.)'
+- !lcc 'F106'
+- !lcsh 'Potomac River Valley -- Description and travel'
+title: 'Sometub''s Cruise on the C. & O. Canal
+
+  The narrative of a motorboat vacation in the heart of Maryland'
+url: http://www.gutenberg.org/ebooks/43909
